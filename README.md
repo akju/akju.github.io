@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 我的个人博客
 
-You can use the [editor on GitHub](https://github.com/akju/akju.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+记录个人关于网络安全检测的学习过程，分享有价值的网络安全领域知识
 
 ### Markdown
 
